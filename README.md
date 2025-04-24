@@ -118,3 +118,11 @@ SwipeSaver is a monthly budget tracking app that allows users to monitor their i
 
 ### Networking
 - No external API calls (V1 is offline/local storage only) 📴
+
+---
+
+## ⚠️ License
+
+This project is copyrighted © 2025 Andry Rakotonjanabelo.  
+**All rights reserved.**  
+You may not copy, modify, distribute, or use this code without express written permission.
