@@ -20,6 +20,7 @@
 		A4134B852DBADE0500994730 /* BudgetManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4134B842DBADE0500994730 /* BudgetManager.swift */; };
 		A4134B892DBAE2F800994730 /* AddEntryView.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4134B882DBAE2F800994730 /* AddEntryView.storyboard */; };
 		A4134B8B2DBAE79900994730 /* EntryDetail.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4134B8A2DBAE79900994730 /* EntryDetail.storyboard */; };
+		A4134B8D2DBAEA1800994730 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4134B8C2DBAEA1800994730 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		A4134B842DBADE0500994730 /* BudgetManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetManager.swift; sourceTree = "<group>"; };
 		A4134B882DBAE2F800994730 /* AddEntryView.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AddEntryView.storyboard; sourceTree = "<group>"; };
 		A4134B8A2DBAE79900994730 /* EntryDetail.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = EntryDetail.storyboard; sourceTree = "<group>"; };
+		A4134B8C2DBAEA1800994730 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				A4134B842DBADE0500994730 /* BudgetManager.swift */,
 				A4134B882DBAE2F800994730 /* AddEntryView.storyboard */,
 				A4134B8A2DBAE79900994730 /* EntryDetail.storyboard */,
+				A4134B8C2DBAEA1800994730 /* MainViewController.swift */,
 			);
 			path = swipesaver;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				A4134B852DBADE0500994730 /* BudgetManager.swift in Sources */,
 				A4134B572DBADC4500994730 /* ViewController.swift in Sources */,
 				A4134B832DBADD4500994730 /* BudgetEntry.swift in Sources */,
+				A4134B8D2DBAEA1800994730 /* MainViewController.swift in Sources */,
 				A4134B532DBADC4500994730 /* AppDelegate.swift in Sources */,
 				A4134B552DBADC4500994730 /* SceneDelegate.swift in Sources */,
 			);
