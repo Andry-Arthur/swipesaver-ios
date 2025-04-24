@@ -83,14 +83,14 @@ SwipeSaver is a monthly budget tracking app that allows users to monitor their i
 
 ## 🖼 Wireframes
 
-### Add Entry Screen
-![Add Entry](./SwipeSaver%20Add%20Entry%20WF.png)
+### Add Entry Screen  
+<img src="./SwipeSaver%20Add%20Entry%20WF.png" alt="Add Entry Wireframe" width="300"/>
 
-### Budget Overview Screen
-![Main Budget](./SwipeSaver%20Main%20Budget%20WF.png)
+### Budget Overview Screen  
+<img src="./SwipeSaver%20Main%20Budget%20WF.png" alt="Main Budget Wireframe" width="300"/>
 
-### Entry Detail Screen
-![Entry Detail](./SwipeSaver%20Entry%20Detail%20WF.png)
+### Entry Detail Screen  
+<img src="./SwipeSaver%20Entry%20Detail%20WF.png" alt="Entry Detail Wireframe" width="300"/>
 
 ---
 
