@@ -1,4 +1,7 @@
 # 💸 SwipeSaver
+<div align="center">
+  <img src="./SwipeSaver%20Logo.png" alt="SwipeSaver Logo" width="360"/>
+</div>
 
 ## By Andry Rakotonjanabelo  
 📱 CodePath iOS Course Capstone Project
@@ -84,6 +87,7 @@ SwipeSaver is a monthly budget tracking app that allows users to monitor their i
 ## 🖼 Wireframes
 
 ### Budget Overview Screen  
+<div align="center">
 <img src="./SwipeSaver%20Main%20Budget%20WF.png" alt="Main Budget Wireframe" width="300"/>
 
 ### Add Entry Screen  
@@ -91,7 +95,7 @@ SwipeSaver is a monthly budget tracking app that allows users to monitor their i
 
 ### Entry Detail Screen  
 <img src="./SwipeSaver%20Entry%20Detail%20WF.png" alt="Entry Detail Wireframe" width="300"/>
-
+</div>
 ---
 
 ## 🧱 Schema
