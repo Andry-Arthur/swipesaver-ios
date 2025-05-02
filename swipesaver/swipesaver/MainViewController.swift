@@ -15,6 +15,8 @@ class MainViewController: UIViewController, UITableViewDelegate, UITableViewData
     @IBOutlet weak var incomeTableView: UITableView!
     @IBOutlet weak var expensesTableView: UITableView!
     
+    @IBOutlet weak var addIncomeButton: UIButton!
+    @IBOutlet weak var addExpenseButton: UIButton!
     var currentMonth = Calendar.current.component(.month, from: Date())
     var currentYear = Calendar.current.component(.year, from: Date())
 
@@ -110,6 +112,15 @@ class MainViewController: UIViewController, UITableViewDelegate, UITableViewData
             let cell = tableView.dequeueReusableCell(withIdentifier: "ExpensesCell", for: indexPath)
             cell.textLabel?.text = expenseEntries[indexPath.row]
             return cell
+        }
+    }
+    
+    @IBAction func didTapAddEntry(_ sender: UIButton) {
+        if sender == addIncomeButton {
+            performSegue(withIdentifier: "showAddEntry", sender: "income")
+        }
+        else if sender == addExpenseButton {
+            performSegue(withIdentifier: "showAddEntry", sender: "expense")
         }
     }
 }
