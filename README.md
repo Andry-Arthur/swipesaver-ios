@@ -34,21 +34,21 @@ SwipeSaver is a monthly budget tracking app that allows users to monitor their i
 ### 1. User Stories
 
 #### ✅ Required Must-have Stories
-- User can see their current monthly budget balance 💰
-- User can add income entries with date and description
-- User can add expense entries with date and description
-- User can attach photos to income/expense entries 📎
-- User can swipe between months and see budget history
-- Budget automatically carries over from month to month
-- App persists all data locally 💾
+- [x] User can see their current monthly budget balance 💰
+- [x] User can add income entries with date and description
+- [x] User can add expense entries with date and description
+- [ ] User can attach photos to income/expense entries 📎
+- [x] User can swipe between months and see budget history
+- [x] Budget automatically carries over from month to month
+- [x] App persists all data locally 💾
 
 #### ⭐ Optional Nice-to-have Stories
-- User can set monthly budget goals 🎯
-- User can categorize expenses 🗂
-- User can see spending analytics/charts 📊
-- User can export budget data 📤
-- Dark mode support 🌙
-- Custom themes 🎨
+- [ ] User can set monthly budget goals 🎯
+- [ ] User can categorize expenses 🗂
+- [ ] User can see spending analytics/charts 📊
+- [ ] User can export budget data 📤
+- [ ] Dark mode support 🌙
+- [ ] Custom themes 🎨
 
 ### 2. Screen Archetypes
 - **Budget Overview Screen**
@@ -120,7 +120,12 @@ SwipeSaver is a monthly budget tracking app that allows users to monitor their i
 - No external API calls (V1 is offline/local storage only) 📴
 
 ---
+## Video Demo
+<div align="center">
+  <img src="./SwipeSaver%20Demo.gif" alt="SwipeSaver Demo" width="360"/>
+</div>
 
+---
 ## ⚠️ License
 
 This project is copyrighted © 2025 Andry Rakotonjanabelo.  
